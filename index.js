@@ -1,2 +1,2 @@
 // write your code below!
-function happyHolidays(string) {console.log('HappyHolidays')}
+function happyHolidays(string) {return ('HappyHolidays')}
